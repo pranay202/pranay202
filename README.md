@@ -1,17 +1,17 @@
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/Pranay202/Pranay202/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+    <img src="https://github.com/Pranay202/Pranay202/blob/main/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <a target="_blank">
-    <img src="https://github.com/Pranay202/Pranay202/blob/master/GIF/Hi.gif" width="40px" />
+    <img src="https://github.com/Pranay202/Pranay202/blob/main/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
 
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Pranay202/Pranay202/blob/master/GIF/image.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Pranay202/Pranay202/blob/main/GIF/image.gif">
 </a>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
@@ -21,7 +21,7 @@
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/Pranay202/Pranay202/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜***
-<!-- - <img src="https://github.com/Pranay202/Pranay202/blob/master/PNG/house.png" width="20px" height="20px"/>  𝙷𝚘𝚐𝚠𝚊𝚛𝚝𝚜 𝙷𝚘𝚞𝚜𝚎 : **𝚂𝚕𝚢𝚝𝚑𝚎𝚛𝚒𝚗** <img width="20px" height="20px" src="https://github.com/Pranay202/Pranay202/blob/master/PNG/Slytherin_ClearBG.png"> -->
+<!-- - <img src="https://github.com/Pranay202/Pranay202/blob/main/PNG/house.png" width="20px" height="20px"/>  𝙷𝚘𝚐𝚠𝚊𝚛𝚝𝚜 𝙷𝚘𝚞𝚜𝚎 : **𝚂𝚕𝚢𝚝𝚑𝚎𝚛𝚒𝚗** <img width="20px" height="20px" src="https://github.com/Pranay202/Pranay202/blob/main/PNG/Slytherin_ClearBG.png"> -->
 
 <br/>
 <br/>
@@ -45,21 +45,21 @@
 
 <p align="center">
   <a>
-    <img height="150" width="175" src="https://github.com/Pranay202/Pranay202/blob/master/PNG/left.png">
+    <img height="150" width="175" src="https://github.com/Pranay202/Pranay202/blob/main/PNG/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay202&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/Pranay202/Pranay202/blob/master/PNG/right.png">
+    <img height="150" width="175" src="https://github.com/Pranay202/Pranay202/blob/main/PNG/right.png">
   </a>
 </p>
 
 #
 
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/Pranay202/Pranay202/blob/master/GIF/github.gif"></a>
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/Pranay202/Pranay202/blob/main/GIF/github.gif"></a>
 <br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
 <br/>
-<code><img height="40" width="40" src="https://iconape.com/postman-logo-logo-icon-svg-png"></code>
+<code><img height="40" width="40" src="https://iconape.com/postman-logo-logo-icon-svg-png.html"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -72,7 +72,7 @@
 
 
 #
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" width="40" src="https://code.visualstudio.com/assets/images/code-stable.png"></code>
@@ -210,7 +210,7 @@ JavaScript               8 repos             ██░░░░░░░░░�
 
  <!-- Last Updated on 23/08/2021 -->
 <!--END_SECTION:waka-->
-
+<!-- 
 <p align="center">
   <a>
     <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@Pranay202/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
@@ -220,7 +220,7 @@ JavaScript               8 repos             ██░░░░░░░░░�
   </a>
 </p>
 
-#
+# -->
 
 <!-- <p align="center">
   <a href="https://github.com/Pranay202">
@@ -231,57 +231,57 @@ JavaScript               8 repos             ██░░░░░░░░░�
 
 <!-- <p align="center">
   <a href='https://github.com/Pranay202/'>
-    <img width="75%" src="https://github.com/Pranay202/Pranay202/blob/master/metrics.svg"/>
-    <img src="https://github.com/Pranay202/Pranay202/blob/master/metrics.detailed.svg" width="75%"/>
+    <img width="75%" src="https://github.com/Pranay202/Pranay202/blob/main/metrics.svg"/>
+    <img src="https://github.com/Pranay202/Pranay202/blob/main/metrics.detailed.svg" width="75%"/>
   </a>
 </p> -->
 
 <h1>
   Connect With Me
   <a target="_blank">
-    <img src="https://github.com/Pranay202/Pranay202/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+    <img src="https://github.com/Pranay202/Pranay202/blob/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
 </h1>
 
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/Pranay202/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/master/SVG/linkedin.svg"/></code>
+    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/SVG/linkedin.svg"/></code>
   </a>
-  <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/master/SVG/facebook.svg"/></code>
+  <a href="https://touch.facebook.com/pranay.kharabe.58#_=_" target="_blank">
+    <code><img  height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/SVG/facebook.svg"/></code>
   </a>
   <a href="https://www.instagram.com/Pranay202/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/master/SVG/instagram.svg"/></code>
+    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/SVG/instagram.svg"/></code>
   </a>
   <a href="https://twitter.com/Pranay202" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/master/SVG/twitter.svg"/></code>
+    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/SVG/twitter.svg"/></code>
   </a>
   <a href="https://dev.to/Pranay202">
-    <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
+    <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Pranay's DEV Profile" height="62" width="62"></code>
   </a>     
 </p>
 <br/>
 
 <p align="center">
   <a href="https://www.hackerrank.com/Pranay202/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/master/PNG/hr.png"/></code>
+    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/PNG/hr.png"/></code>
   </a>
 
   <a href="http://www.codeforces.com/profile/Pranay202" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/master/PNG/cf.png"/></code>
+    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/PNG/cf.png"/></code>
   </a>
 
   <a href="https://www.hackerearth.com/@Pranay202" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/master/SVG/he.svg"/></code>
+    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/SVG/he.svg"/></code>
   </a>
 
   <a href="https://www.codechef.com/users/Pranay202" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/master/SVG/cc.svg"/></code>
+    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/SVG/cc.svg"/></code>
   </a>
   
   <a href="https://leetcode.com/Pranay202/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/master/PNG/lc.png"/></code>
+    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/PNG/lc.png"/></code>
   </a>
 </p>
 
@@ -296,4 +296,4 @@ JavaScript               8 repos             ██░░░░░░░░░�
 
 #
 
-![footer](https://github.com/Pranay202/Pranay202/blob/master/PNG/footer.png)
+![footer](https://github.com/Pranay202/Pranay202/blob/main/PNG/footer.png)
