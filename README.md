@@ -107,7 +107,7 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Pranay202&theme=react-dark&hide_border=true&area=true)
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Pranay202/Pranay202/blob/main/github-contribution-grid-snake.svg)
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Pranay202/Pranay202/blob/master/github-contribution-grid-snake.svg)
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 <br/>
 
@@ -140,7 +140,7 @@
  > 
 > 🔑 2 Private Repositories  
  > 
-<!-- **I'm a Night 🦉** 
+ **I'm a Night 🦉** 
 
 ```text
 🌞 Morning    98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
@@ -203,13 +203,12 @@ C++                      12 repos            ███░░░░░░░░�
 HTML                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
 JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0%
 
-``` -->
+``` 
 
 
 
- <!-- Last Updated on 23/08/2021 -->
-<!--END_SECTION:waka-->
-<!-- 
+ Last Updated on 23/08/2021
+<!-- END_SECTION:waka -->
 <p align="center">
   <a>
     <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@Pranay202/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
@@ -219,21 +218,21 @@ JavaScript               8 repos             ██░░░░░░░░░�
   </a>
 </p>
 
-# -->
+#
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/Pranay202">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
   </a>
   <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
-</p> -->
+</p>
 
-<!-- <p align="center">
+<p align="center">
   <a href='https://github.com/Pranay202/'>
     <img width="75%" src="https://github.com/Pranay202/Pranay202/blob/main/metrics.svg"/>
     <img src="https://github.com/Pranay202/Pranay202/blob/main/metrics.detailed.svg" width="75%"/>
   </a>
-</p> -->
+</p>
 
 <h1>
   Connect With Me
@@ -244,42 +243,42 @@ JavaScript               8 repos             ██░░░░░░░░░�
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/Pranay202/" target="_blank">
+  <a href="https://www.linkedin.com/in/pranay-kharabe-b01456207/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/SVG/linkedin.svg"/></code>
   </a>
-  <a href="https://touch.facebook.com/pranay.kharabe.58#_=_" target="_blank">
+  <a href="https://www.facebook.com/pranav.kharabe.3/" target="_blank">
     <code><img  height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/SVG/facebook.svg"/></code>
   </a>
-  <a href="https://www.instagram.com/Pranay202/" target="_blank">
+  <a href="https://www.instagram.com/dev_root_/?ltclid=929dbe3b-161a-484c-9075-ae11f3c63e12" target="_blank">
     <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/SVG/instagram.svg"/></code>
   </a>
-  <a href="https://twitter.com/Pranay202" target="_blank">
+  <a href="https://twitter.com/kharabePranay23" target="_blank">
     <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/SVG/twitter.svg"/></code>
   </a>
-  <a href="https://dev.to/Pranay202">
+  <a href="https://dev.to/pranaykharabe">
     <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Pranay's DEV Profile" height="62" width="62"></code>
   </a>     
 </p>
 <br/>
 
 <p align="center">
-  <a href="https://www.hackerrank.com/Pranay202/" target="_blank">
+  <a href="https://www.hackerrank.com/kharabepranay" target="_blank">
     <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/PNG/hr.png"/></code>
   </a>
 
-  <a href="http://www.codeforces.com/profile/Pranay202" target="_blank">
+  <a href="https://codeforces.com/profile/kharabepranay" target="_blank">
     <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/PNG/cf.png"/></code>
   </a>
 
-  <a href="https://www.hackerearth.com/@Pranay202" target="_blank">
+  <a href="https://www.hackerearth.com/@pranayk.cseb19" target="_blank">
     <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/SVG/he.svg"/></code>
   </a>
 
-  <a href="https://www.codechef.com/users/Pranay202" target="_blank">
+  <a href="https://www.codechef.com/users/pranaykharabe" target="_blank">
     <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/SVG/cc.svg"/></code>
   </a>
   
-  <a href="https://leetcode.com/Pranay202/" target="_blank">
+  <a href="https://leetcode.com/pranaykharabe20/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/PNG/lc.png"/></code>
   </a>
 </p>
