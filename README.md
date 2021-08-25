@@ -112,18 +112,18 @@
 <br/>
 
 #
-
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
+<br>
 
-<a target="_blank">
+<!-- <a target="_blank">
   <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@801819d0-5d75-47b5-b147-8714c42787be.svg" >
 </a>
 
 <br>
-<br>
+<br> -->
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0.5%20million%20lines%20of%20code-blue)
