@@ -211,10 +211,10 @@ JavaScript               8 repos             ██░░░░░░░░░�
 <!-- END_SECTION:waka -->
 <p align="center">
   <a>
-    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@Pranay202/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
+    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@b2d2e190-9c77-4fb4-8c81-c66208e0152f/746212bb-29ec-47fb-9bf8-e0ed9710c1ce.svg"/>
   </a>
   <a>
-    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@Pranay202/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
+    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@b2d2e190-9c77-4fb4-8c81-c66208e0152f/4bcc6913-75b4-4e94-a1be-8276f973013a.svg" />
   </a>
 </p>
 
