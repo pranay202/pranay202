@@ -142,7 +142,7 @@
  > 
  **I'm a Night 🦉** 
 
-```text
+<!-- ```text
 🌞 Morning    98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
 🌆 Daytime    211 commits    ███████░░░░░░░░░░░░░░░░░░   28.83% 
 🌃 Evening    244 commits    ████████░░░░░░░░░░░░░░░░░   33.33% 
@@ -203,18 +203,18 @@ C++                      12 repos            ███░░░░░░░░�
 HTML                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
 JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0%
 
-``` 
+```  -->
 
 
 
- Last Updated on 23/08/2021
+ <!-- Last Updated on 23/08/2021 -->
 <!-- END_SECTION:waka -->
 <p align="center">
   <a>
     <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@b2d2e190-9c77-4fb4-8c81-c66208e0152f/746212bb-29ec-47fb-9bf8-e0ed9710c1ce.svg"/>
   </a>
   <a>
-    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@b2d2e190-9c77-4fb4-8c81-c66208e0152f/4bcc6913-75b4-4e94-a1be-8276f973013a.svg" />
+    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@b2d2e190-9c77-4fb4-8c81-c66208e0152f/4a530040-0503-47d2-9ff1-d030fcb527b0.svg" />
   </a>
 </p>
 
