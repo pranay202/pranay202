@@ -1,17 +1,17 @@
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/Pranay202/Pranay202/blob/main/GIF/Earth.gif" width="24px" style="max-width:100%;">
+    <img src="https://github.com/Pranay202/Pranay202/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <a target="_blank">
-    <img src="https://github.com/Pranay202/Pranay202/blob/main/GIF/Hi.gif" width="40px" />
+    <img src="https://github.com/Pranay202/Pranay202/blob/master/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
 
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Pranay202/Pranay202/blob/main/GIF/image.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Pranay202/Pranay202/blob/master/GIF/image.gif">
 </a>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
@@ -21,7 +21,7 @@
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/Pranay202/Pranay202/issues/2) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : ***Developers* learn in a variety of ways!**
-<!-- - <img src="https://github.com/Pranay202/Pranay202/blob/main/PNG/house.png" width="20px" height="20px"/>  𝙷𝚘𝚐𝚠𝚊𝚛𝚝𝚜 𝙷𝚘𝚞𝚜𝚎 : **𝚂𝚕𝚢𝚝𝚑𝚎𝚛𝚒𝚗** <img width="20px" height="20px" src="https://github.com/Pranay202/Pranay202/blob/main/PNG/Slytherin_ClearBG.png"> -->
+<!-- - <img src="https://github.com/Pranay202/Pranay202/blob/master/PNG/house.png" width="20px" height="20px"/>  𝙷𝚘𝚐𝚠𝚊𝚛𝚝𝚜 𝙷𝚘𝚞𝚜𝚎 : **𝚂𝚕𝚢𝚝𝚑𝚎𝚛𝚒𝚗** <img width="20px" height="20px" src="https://github.com/Pranay202/Pranay202/blob/master/PNG/Slytherin_ClearBG.png"> -->
 
 <br/>
 <br/>
@@ -44,15 +44,15 @@
 
 <p align="center">
   <a>
-    <img height="150" width="175" src="https://github.com/Pranay202/Pranay202/blob/main/PNG/left.png">
+    <img height="150" width="175" src="https://github.com/Pranay202/Pranay202/blob/master/PNG/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay202&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/Pranay202/Pranay202/blob/main/PNG/right.png">
+    <img height="150" width="175" src="https://github.com/Pranay202/Pranay202/blob/master/PNG/right.png">
   </a>
 </p>
 
 #
 
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/Pranay202/Pranay202/blob/main/GIF/github.gif"></a>
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/Pranay202/Pranay202/blob/master/GIF/github.gif"></a>
 <br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
@@ -168,31 +168,31 @@
 
 <p align="center">
   <a href='https://github.com/Pranay202/'>
-    <img width="75%" src="https://github.com/Pranay202/Pranay202/blob/main/metrics.svg"/>
-    <img src="https://github.com/Pranay202/Pranay202/blob/main/metrics.detailed.svg" width="75%"/>
+    <img width="75%" src="https://github.com/Pranay202/Pranay202/blob/master/metrics.svg"/>
+    <img src="https://github.com/Pranay202/Pranay202/blob/master/metrics.detailed.svg" width="75%"/>
   </a>
 </p> -->
 
 <h1>
   Connect With Me
   <a target="_blank">
-    <img src="https://github.com/Pranay202/Pranay202/blob/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+    <img src="https://github.com/Pranay202/Pranay202/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
 </h1>
 
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/pranay-kharabe-b01456207/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/SVG/linkedin.svg"/></code>
+    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/master/SVG/linkedin.svg"/></code>
   </a>
   <a href="https://www.facebook.com/pranav.kharabe.3/" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/SVG/facebook.svg"/></code>
+    <code><img  height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/master/SVG/facebook.svg"/></code>
   </a>
   <a href="https://www.instagram.com/dev_root_/?ltclid=929dbe3b-161a-484c-9075-ae11f3c63e12" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/SVG/instagram.svg"/></code>
+    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/master/SVG/instagram.svg"/></code>
   </a>
   <a href="https://twitter.com/kharabePranay23" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/SVG/twitter.svg"/></code>
+    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/master/SVG/twitter.svg"/></code>
   </a>
   <a href="https://dev.to/pranaykharabe">
     <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Pranay's DEV Profile" height="62" width="62"></code>
@@ -202,23 +202,23 @@
 
 <p align="center">
   <a href="https://www.hackerrank.com/kharabepranay" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/PNG/hr.png"/></code>
+    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/master/PNG/hr.png"/></code>
   </a>
 
   <a href="https://codeforces.com/profile/kharabepranay" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/PNG/cf.png"/></code>
+    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/master/PNG/cf.png"/></code>
   </a>
 
   <a href="https://www.hackerearth.com/@pranayk.cseb19" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/SVG/he.svg"/></code>
+    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/master/SVG/he.svg"/></code>
   </a>
 
   <a href="https://www.codechef.com/users/pranaykharabe" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/SVG/cc.svg"/></code>
+    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/master/SVG/cc.svg"/></code>
   </a>
   
   <a href="https://leetcode.com/pranaykharabe20/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/main/PNG/lc.png"/></code>
+    <code><img height="60" width="60" src="https://github.com/Pranay202/Pranay202/blob/master/PNG/lc.png"/></code>
   </a>
 </p>
 
@@ -233,4 +233,4 @@
 
 #
 
-![footer](https://github.com/Pranay202/Pranay202/blob/main/PNG/footer.png)
+![footer](https://github.com/Pranay202/Pranay202/blob/master/PNG/footer.png)
