@@ -14,6 +14,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Pranay202/Pranay202/blob/master/GIF/image.gif">
 </a>
 <br><br>
+
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **React.js and Data Structures and Algorithms**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
@@ -170,12 +171,12 @@
 
 ![Metrics](https://metrics.lecoq.io/Pranay202?template=classic&achievements=1&pagespeed=1&discussions=1&lines=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta)
 
-<p align="center">
+<!-- <p align="center">
   <a href='https://github.com/Pranay202/'>
     <img width="75%" src="https://github.com/Pranay202/Pranay202/blob/master/metrics.svg"/>
     <img src="https://github.com/Pranay202/Pranay202/blob/master/metrics.detailed.svg" width="75%"/>
   </a>
-</p>
+</p> -->
 
 <h1>
   Connect With Me
