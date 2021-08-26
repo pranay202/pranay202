@@ -13,7 +13,7 @@
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Pranay202/Pranay202/blob/master/GIF/image.gif">
 </a>
-
+<br><br>
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **React.js and Data Structures and Algorithms**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
@@ -38,9 +38,10 @@
     <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2FPranay202" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
   </code>
 </p>
-<p align="center">
+<a align="center">
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Pranay202&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Pranay202)
+</a>
 
 <p align="center">
   <a>
@@ -157,7 +158,7 @@
   </a>
 </p>
 
-<!-- #
+#
 
 <p align="center">
   <a href="https://github.com/Pranay202">
@@ -165,13 +166,16 @@
   </a>
   <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
 </p>
+<br>
+
+![Metrics](https://metrics.lecoq.io/Pranay202?template=classic&achievements=1&pagespeed=1&discussions=1&lines=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta)
 
 <p align="center">
   <a href='https://github.com/Pranay202/'>
     <img width="75%" src="https://github.com/Pranay202/Pranay202/blob/master/metrics.svg"/>
     <img src="https://github.com/Pranay202/Pranay202/blob/master/metrics.detailed.svg" width="75%"/>
   </a>
-</p> -->
+</p>
 
 <h1>
   Connect With Me
@@ -198,7 +202,7 @@
     <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Pranay's DEV Profile" height="62" width="62"></code>
   </a>     
 </p>
-<br/>
+<br>
 
 <p align="center">
   <a href="https://www.hackerrank.com/kharabepranay" target="_blank">
@@ -222,8 +226,8 @@
   </a>
 </p>
 
-<br/>
-<br/>
+<br>
+
 
 <div align="center">
 
