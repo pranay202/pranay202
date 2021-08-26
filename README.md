@@ -8,8 +8,6 @@
   </a>
 </h1>
 
-<br/>
-<br/>
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Pranay202/Pranay202/blob/master/GIF/image.gif">
 </a>
