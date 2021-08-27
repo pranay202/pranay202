@@ -174,12 +174,12 @@
 
 ![Metrics](https://metrics.lecoq.io/Pranay202?template=classic&achievements=1&pagespeed=1&discussions=1&lines=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta)
 
-<!-- <p align="center">
+<p align="center">
   <a href='https://github.com/Pranay202/'>
-    <img width="75%" src="https://github.com/Pranay202/Pranay202/blob/master/metrics.svg"/>
-    <img src="https://github.com/Pranay202/Pranay202/blob/master/metrics.detailed.svg" width="75%"/>
+    <img width="75%" src="https://github.com/Pranay202/Pranay202/blob/master/Metrics.svg"/>
+    <!-- <img src="https://github.com/Pranay202/Pranay202/blob/master/metrics.detailed.svg" width="75%"/> -->
   </a>
-</p> -->
+</p>
 
 <h1>
   Connect With Me
