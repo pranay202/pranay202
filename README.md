@@ -10,7 +10,7 @@
 
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Pranay202/Pranay202/blob/master/GIF/image.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 </a>
 
 
@@ -171,6 +171,7 @@
   <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
 </p>
 <br>
+
 
 ![Metrics](https://metrics.lecoq.io/Pranay202?template=classic&achievements=1&pagespeed=1&discussions=1&lines=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta)
 
