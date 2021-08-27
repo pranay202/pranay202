@@ -8,7 +8,6 @@
   </a>
 </h1>
 
-<br/>
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 </a>
