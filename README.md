@@ -171,8 +171,8 @@
 </p>
 <br>
 
-
-![Metrics](https://metrics.lecoq.io/Pranay202?template=classic&achievements=1&pagespeed=1&discussions=1&lines=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta)
+<!-- 
+![Metrics](https://metrics.lecoq.io/Pranay202?template=classic&achievements=1&pagespeed=1&discussions=1&lines=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta) -->
 
 <p align="center">
   <a href='https://github.com/Pranay202/'>
