@@ -43,7 +43,7 @@
 <br/>
 <a align="center">
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Pranay202&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Pranay202)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Pranay202&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onedark)](https://github.com/Pranay202)
 </a>
 
 <p align="center">
