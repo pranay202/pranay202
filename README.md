@@ -48,9 +48,9 @@
 
 <p align="center">
   <a>
-    <img height="150" width="175" src="https://github.com/Pranay202/Pranay202/blob/master/PNG/left.png">
+    <!-- <img height="150" width="175" src="https://github.com/Pranay202/Pranay202/blob/master/PNG/left.png"> -->
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay202&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/Pranay202/Pranay202/blob/master/PNG/right.png">
+    <!-- <img height="150" width="175" src="https://github.com/Pranay202/Pranay202/blob/master/PNG/right.png"> -->
   </a>
 </p>
 
