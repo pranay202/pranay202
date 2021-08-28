@@ -43,13 +43,13 @@
 <br/>
 <a align="center">
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Pranay202&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onedark)](https://github.com/Pranay202)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Pranay202&column=8&margin-w=20&margin-h=20&theme=onedark)](https://github.com/Pranay202)
 </a>
 
 <p align="center">
   <a>
     <img height="150" width="175" src="https://github.com/Pranay202/Pranay202/blob/master/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay202&theme=highcontrast&hide_border=true"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay202&theme=dark&hide_border=true"/>
     <img height="150" width="175" src="https://github.com/Pranay202/Pranay202/blob/master/PNG/right.png">
   </a>
 </p>
