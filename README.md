@@ -9,9 +9,9 @@
 </h1> -->
 
 <h1 align="center">
-  <!-- <img src="GIF/Earth.gif" width="24px"> -->
+  <img src="GIF/Earth.gif" width="24px">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="GIF/Hi.gif" width="12px" height="10px" />
+  <img src="GIF/Hi.gif" width="30px" />
 </h1>
 
 <br/>
