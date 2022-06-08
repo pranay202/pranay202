@@ -1,17 +1,25 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/Pranay202/Pranay202/blob/master/GIF/Earth.gif" width="20px" style="max-width:100%;">
+    <img src="https://github.com/Pranay202/Pranay202/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <a target="_blank">
-    <img src="https://github.com/Pranay202/Pranay202/blob/master/GIF/Hi.gif" width="35px" />
+    <img src="https://github.com/Pranay202/Pranay202/blob/master/GIF/Hi.gif" width="40px" />
   </a>
+</h1> -->
+
+<h1 align="center">
+  <img src="GIF/Earth.gif" width="24px">
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="GIF/Hi.gif" width="40px" />
 </h1>
+
+<br/>
+<br/>
 
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
 </a>
-
 
 <br/>
 
@@ -21,13 +29,12 @@
 - 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 **𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/Pranay202/Pranay202/issues/2) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : ***Developers* learn in a variety of ways!**
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **_Developers_ learn in a variety of ways!**
 <!-- - <img src="https://github.com/Pranay202/Pranay202/blob/master/PNG/house.png" width="20px" height="20px"/>  𝙷𝚘𝚐𝚠𝚊𝚛𝚝𝚜 𝙷𝚘𝚞𝚜𝚎 : **𝚂𝚕𝚢𝚝𝚑𝚎𝚛𝚒𝚗** <img width="20px" height="20px" src="https://github.com/Pranay202/Pranay202/blob/master/PNG/Slytherin_ClearBG.png"> -->
 
 <br/>
 <br/>
 <br/>
-
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/Pranay202" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
@@ -37,7 +44,7 @@
 </p>
 <p align="center">
   <code>
-    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2FPranay202" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
+    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-pranay.herokuapp.com%2Fapi%2FPranay202" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
   </code>
 </p>
 <br/>
@@ -77,7 +84,7 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
 
-#
+
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
@@ -114,11 +121,14 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Pranay202&theme=react-dark&hide_border=true&area=true)
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
+
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Pranay202/Pranay202/blob/main/github-contribution-grid-snake.svg)
+
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 <br/>
 
 #
+
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
@@ -133,25 +143,22 @@
 <br> -->
 
 <!--START_SECTION:waka-->
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0.5%20million%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My Github Data**
 
 > 🏆 100 Contributions Completed!
- > 
-> 📦 2.8 MB Used in Github's Storage 
- > 
+>
+> 📦 2.8 MB Used in Github's Storage
+>
 > 💼 Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
->   🔱 **I'm a Night 🦉** 
-
-
-
-
+>
+> 📜 19 Public Repositories
+>
+> 🔑 2 Private Repositories
+>
+> 🔱 **I'm a Night 🦉**
 
  <!-- Last Updated on 23/08/2021 -->
 <!-- END_SECTION:waka -->
@@ -174,7 +181,7 @@
 </p>
 <br>
 
-<!-- 
+<!--
 ![Metrics](https://metrics.lecoq.io/Pranay202?template=classic&achievements=1&pagespeed=1&discussions=1&lines=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta) -->
 
 <p align="center">
@@ -234,7 +241,6 @@
 </p>
 
 <br>
-
 
 <div align="center">
 
